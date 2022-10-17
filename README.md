@@ -1,16 +1,3 @@
-### Hi there 👋
+### سلام 👋
 
-<!--
-**secure-iran/secure-iran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+من دارم تلاش میکنم که به هموطنانم که در خیابان‌ها در حال مبارزه با رژیم جنایتکار هستند کمک کنم. من بخشی از وقتم رو به مطالعه و تحقیق و بررسی به حوزه‌های مختلف اختصاص دادم. نتایج اون‌ها رو درباره امنیت و توصیه‌ها اینجا به ساده‌ترین شیوه در اختیار عموم قرار میدم. 
